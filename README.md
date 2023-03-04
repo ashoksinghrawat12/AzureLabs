@@ -1,3 +1,3 @@
-# hello-world
-First repository
-Ashok Singh Rawat here and this is my first repository in git hub.
+# Azure Labs
+
+Lab01 - Hosting Front End App and REST API with Storage Account
